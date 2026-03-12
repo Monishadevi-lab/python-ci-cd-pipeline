@@ -1,1 +1,1 @@
-print("Hello DevOps CI/CD Pipeline")
+print("CI pipeline test successful")
